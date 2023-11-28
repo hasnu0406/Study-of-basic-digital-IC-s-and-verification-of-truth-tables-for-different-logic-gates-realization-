@@ -61,7 +61,8 @@ Program:
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: HASNA MUBARAK AZEEM
-RegisterNumber: 23000568 
+RegisterNumber: 23000568
+
 */Logic symbol & Truthtable
 RTL realization
 Output:
